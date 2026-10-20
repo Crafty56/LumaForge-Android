@@ -1,8 +1,8 @@
 {
   "repository": "Crafty56/LumaForge-Android",
   "platform": "android",
-  "version": "0.10.0-preview.1",
-  "tag": "v0.10.0-preview.1",
-  "file": "LumaForge-Hub-0.10.0-preview.1.apk",
-  "sha256": "fc92f5c1565c5ba914b066727167a1ce234d150677700146737b457305ba0005"
+  "version": "0.11.0-preview.1",
+  "tag": "v0.11.0-preview.1",
+  "file": "LumaForge-Hub-0.11.0-preview.1.apk",
+  "sha256": "835f2545ecadcb32c92333371747ef0d812789ecaba1249b0de643d1dd7c141b"
 }

@@ -2,9 +2,9 @@
 
 Published by **CADET**. Community: https://discord.gg/RK5dyBArdg
 
-[Download the counted Release installer](https://github.com/Crafty56/LumaForge-Android/releases/download/v0.10.0-preview.1/LumaForge-Hub-0.10.0-preview.1.apk)
+[Download the counted Release installer](https://github.com/Crafty56/LumaForge-Android/releases/download/v0.11.0-preview.1/LumaForge-Hub-0.11.0-preview.1.apk)
 
-[Direct file fallback](LumaForge-Hub-0.10.0-preview.1.apk) · [Release history](https://github.com/Crafty56/LumaForge-Android/releases)
+[Direct file fallback](LumaForge-Hub-0.11.0-preview.1.apk) · [Release history](https://github.com/Crafty56/LumaForge-Android/releases)
 
 Android 8+ and current Android System WebView. Development signed.
 
